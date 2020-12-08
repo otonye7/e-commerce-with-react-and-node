@@ -5,7 +5,7 @@
          "image": "https://e2.365dm.com/20/07/768x432/skysports-serge-gnabry-bayern-munich_5054601.jpg?20200731140044",
          "description": "2018 World cup special jersey",
          "price": 180,
-         "availableSizes": ["XL", "XXL"]
+         "availableSizes": ["L", "XXL"]
 
         },
         {"_id":"dress2",
@@ -13,7 +13,7 @@
             "image": "https://images.performgroup.com/di/library/GOAL/20/87/mesut-ozil-2019-20-arsenal-away-kit_8edaat60x52y1mu8bvg0xi21s.jpg?t=-100697037",
             "description": "Special mesut ozil kit",
             "price": 275,
-            "availableSizes": ["XL", "XXL"]
+            "availableSizes": ["XL", "XXL", "M", "L"]
    
            },
            {"_id":"dress3",
@@ -45,7 +45,7 @@
             "image": "https://e1.365dm.com/19/07/1600x900/skysports-pogba-man-utd-kit_4716014.jpg",
             "description": "Bayern munich jersey",
             "price": 190,
-            "availableSizes": ["XL", "XXL"]
+            "availableSizes": ["L", "M"]
    
            },
            {"_id":"dress7",
@@ -53,7 +53,7 @@
             "image": "http://a.espncdn.com/combiner/i/?img=/soccernet/design05/images/2018/1218/salahgq_800x450.png&amp;w=100&amp;h=80&amp;scale=crop&amp;site=espnfc",
             "description": "mo salahcoats",
             "price": 500,
-            "availableSizes": ["XL", "XXL"]
+            "availableSizes": ["S", "L"]
    
            },
 
@@ -62,7 +62,7 @@
             "image": "https://amayei.nyc3.digitaloceanspaces.com/2018/12/Mohamed-Salah-2.jpg",
             "description": "Gq papers",
             "price": 500,
-            "availableSizes": ["XL", "XXL"]
+            "availableSizes": ["M","XL", "XXL"]
    
            },
 
@@ -71,7 +71,7 @@
             "image": "https://i.dailymail.co.uk/1s/2019/05/15/09/13518116-7031333-David_A-a-99_1557910109902.jpg",
             "description": "alaba jerseys",
             "price": 500,
-            "availableSizes": ["XL", "XXL"]
+            "availableSizes": ["S","XL", "XXL"]
    
            },
 
